@@ -5,7 +5,7 @@ A high-performance, cross-platform desktop media ecosystem built specifically fo
 ReAniPlay challenges the modern standard of bloated, resource-heavy Electron wrapper applications. Built entirely on **C# and Avalonia UI**, it delivers a native, lightweight desktop experience combined with advanced real-time video processing and seamless backend synchronization.
 
 <p align="center">
-  <img src="docs/assets/main-view.png" alt="ReAniPlay Main Interface" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+  <img src="assets/main-view.png" alt="ReAniPlay Main Interface" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@ ReAniPlay challenges the modern standard of bloated, resource-heavy Electron wra
 <br>
 
 <p align="center">
-  <img src="docs/assets/player-view.png" alt="ReAniPlay Hardware Accelerated Player" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
+  <img src="assets/player-view.png" alt="ReAniPlay Hardware Accelerated Player" width="100%" style="border-radius: 12px; margin-bottom: 20px;">
 </p>
 
 <p align="center">
