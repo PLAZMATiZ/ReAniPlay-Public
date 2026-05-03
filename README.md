@@ -41,7 +41,7 @@ ReAniPlay challenges the modern standard of bloated, resource-heavy Electron wra
 * **Database:** PostgreSQL
 * **ORM:** Entity Framework Core
 * **Authentication:** JWT + Stateful Session Management (Refresh Token Rotation)
-* **Hosting:** Railway / Cloudflare
+* **Hosting:** Railway / Cloudflare / Vercel
 
 ## Key Engineering Features
 
